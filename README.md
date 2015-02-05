@@ -1,7 +1,7 @@
 Push better software with Pull Requests presentation
 ====================================================
 
-A [presentation](https://github.com/robdmoore/PushBetterSoftwareWithPullRequestsPresentation/raw/master/Presentation.pptx) I gave to the [Yow! West conference](http://west.yowconference.com.au/speakers/) about pull requests on 13 May 2014.
+A [presentation](https://github.com/robdmoore/PushBetterSoftwareWithPullRequestsPresentation/raw/master/Presentation.pptx) I gave to the [2014 Yow! West conference](http://west.yowconference.com.au/archive-2014/) about pull requests on 13 May 2014.
 
 I have published a practice run of my talk on [YouTube](https://www.youtube.com/watch?v=W6kDwZTazsE).
 
