@@ -3,7 +3,7 @@ Push better software with Pull Requests presentation
 
 A [presentation](https://github.com/robdmoore/PushBetterSoftwareWithPullRequestsPresentation/raw/master/Presentation.pptx) I gave to the [2014 Yow! West conference](http://west.yowconference.com.au/archive-2014/) about pull requests on 13 May 2014.
 
-I have published a practice run of my talk on [YouTube](https://www.youtube.com/watch?v=W6kDwZTazsE).
+The talk itself is published on [YouTube](https://www.youtube.com/watch?list=PLIpl4GKFQR6eXub6zaSren896Dfq4lUhs&v=f0wK3q74iW4) and I have also published a practice run of my talk on [YouTube](https://www.youtube.com/watch?v=W6kDwZTazsE).
 
 The talk is based on a [blog post](http://robdmoore.id.au/blog/2013/12/01/using-pull-requests-for-commercialprivateproprietary-development/) that I wrote.
 
